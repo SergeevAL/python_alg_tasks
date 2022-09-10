@@ -1,3 +1,5 @@
+# Считываем и удаляем с конца , записываем в начало
+#
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
         """
